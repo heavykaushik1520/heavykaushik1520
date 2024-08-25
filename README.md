@@ -1,5 +1,1 @@
-# heavykaushik1520
-#compitative coding
-https://shorturl.at/x4dhr
-#LinkedIn Account
-https://www.linkedin.com/in/kaushik-mandavkar-909158229/
+Web development enthusiast on a journey to master the craft. Constantly learning and exploring new technologies to build better, faster, and more user-friendly web applications.
